@@ -2,14 +2,14 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 gaussian_grammat_rcpp <- function(x, bandwidth, n, d) {
-    .Call(`_dHSIC_gaussian_grammat_rcpp`, x, bandwidth, n, d)
+    .Call('_dHSIC_gaussian_grammat_rcpp', PACKAGE = 'dHSIC', x, bandwidth, n, d)
 }
 
 discrete_grammat_rcpp <- function(x, n, d) {
-    .Call(`_dHSIC_discrete_grammat_rcpp`, x, n, d)
+    .Call('_dHSIC_discrete_grammat_rcpp', PACKAGE = 'dHSIC', x, n, d)
 }
 
 median_bandwidth_rcpp <- function(x, n, d) {
-    .Call(`_dHSIC_median_bandwidth_rcpp`, x, n, d)
+    .Call('_dHSIC_median_bandwidth_rcpp', PACKAGE = 'dHSIC', x, n, d)
 }
 

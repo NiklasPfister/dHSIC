@@ -12,4 +12,5 @@ Description: Contains an implementation of the
 License: GPL-3
 Imports: Rcpp (>= 1.0.0)
 LinkingTo: Rcpp
+Encoding: UTF-8
 RoxygenNote: 6.1.1
