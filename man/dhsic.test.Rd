@@ -137,11 +137,11 @@ dhsic.test(X, method="permutation",
            pairwise=FALSE, B=1000)$p.value
 }
 \references{
-Gretton, A., K. Fukumizu, C. H. Teo, L. Song, B. Sch{\"o}lkopf and A. J. Smola (2007).
+Gretton, A., K. Fukumizu, C. H. Teo, L. Song, B. \enc{Schölkopf}{Schoelkopf} and A. J. Smola (2007).
 A kernel statistical test of independence.
 In Advances in Neural Information Processing Systems (pp. 585-592).
 
-Pfister, N., P. B{\"u}hlmann, B. Sch{\"o}lkopf and J. Peters (2018).
+Pfister, N., P. \enc{Bühlmann}{Buehlmann}, B. \enc{Schölkopf}{Schoelkopf} and J. Peters (2018).
 Kernel-based Tests for Joint Independence.
 Journal of the Royal Statistical Society, Series B.
 }
@@ -153,4 +153,3 @@ In order to only compute the test statistic without
 Niklas Pfister and Jonas Peters
 }
 \keyword{htest}
-\keyword{nonparametric,}

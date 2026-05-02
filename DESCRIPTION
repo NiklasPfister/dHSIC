@@ -1,0 +1,16 @@
+Package: dHSIC
+Type: Package
+Title: Independence Testing via Hilbert Schmidt Independence Criterion
+Version: 2.2
+Date: 2026-04-30
+Authors@R: c(person(given = "Niklas", family = "Pfister", role = c("aut", "cre"), email = "niklas.pfister@gmail.com"), person(given = "Jonas", family = "Peters", role = "aut"))
+Description: Contains an implementation of the
+  d-variable Hilbert Schmidt independence criterion
+  and several hypothesis tests based on it, as described
+  in Pfister et al. (2018) <doi:10.1111/rssb.12235>.
+License: GPL-3 | file LICENSE
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp
+RoxygenNote: 6.1.1
+Encoding: UTF-8
+

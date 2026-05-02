@@ -29,11 +29,10 @@ The DESCRIPTION file:
 Maintainer: \packageMaintainer{dHSIC}
 }
 \references{
-  Gretton, A., K. Fukumizu, C. H. Teo, L. Song, B. Sch{\"o}lkopf and
-  A. J. Smola (2007). A kernel statistical test of independence. In
+Gretton, A., K. Fukumizu, C. H. Teo, L. Song, B. \enc{Schölkopf}{Schoelkopf} and A. J. Smola (2007). A kernel statistical test of independence. In
   Advances in Neural Information Processing Systems (pp. 585-592).
-  
-  Pfister, N., P. B{\"u}hlmann, B. Sch{\"o}lkopf and J. Peters (2017).
+
+Pfister, N., P. \enc{Bühlmann}{Buehlmann}, B. \enc{Schölkopf}{Schoelkopf} and J. Peters (2018).
   Kernel-based Tests for Joint Independence. To appear in the
   Journal of the Royal Statistical Society, Series B.
 }
